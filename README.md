@@ -3,7 +3,7 @@
 [![Build Status](https://img.shields.io/travis/pymatting/pymatting?label=Travis%20CI)](https://travis-ci.org/pymatting/pymatting)
 [![PyPI](https://img.shields.io/pypi/v/pymatting)](https://pypi.org/project/PyMatting/)
 
-We introduce the PyMatting package for Python which implements various methods to solve the alpha matting problem.
+We iantroduce the PyMatting package for Python which implements various methods to solve the alpha matting problem.
 
 - **Website and Documentation:** [https://pymatting.github.io/](https://pymatting.github.io)
 - **Benchmarks:**  [https://pymatting.github.io/benchmark.html](https://pymatting.github.io/benchmark.html)
